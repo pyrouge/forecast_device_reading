@@ -1,0 +1,15 @@
+{
+  "MAE": 36.11430524001298,
+  "RMSE": 41.04068575608013,
+  "MAPE_percent": 303.63419709257835,
+  "MPE_percent": 242.68492046983823,
+  "SMAPE_percent": 62.857647217812605,
+  "Median_APE_percent": 41.660698680215226,
+  "Mean_Error_units": -20.690836111811574,
+  "Over_Count": 23703,
+  "Under_Count": 76089,
+  "Zero_Actuals_Count": 0,
+  "Test_Size": 99792,
+  "Bias_train_units": -7.802323848597013,
+  "Multiplicative_Factor": 1.308973667052008
+}
